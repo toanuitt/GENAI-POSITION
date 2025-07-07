@@ -266,7 +266,7 @@ LangGraph is a framework for building stateful, multi-actor applications with LL
 - **Nodes**: Computation steps (LLM calls, tool executions, Python functions)
 - **Edges**: Flow control (conditional routing, loops, parallel execution)
 - **State**: Shared data structure that persists across nodes
-
+![alt text](langgraph.png)
 #### 2. Execution Models
 - **Synchronous**: Sequential execution
 - **Asynchronous**: Concurrent execution for better performance
@@ -318,7 +318,7 @@ for message in final_state["messages"]:
 ```
 
 #### 2. ReAct Agent Pattern
-
+![alt text](image.png)
 ```python
 from langgraph.graph import StateGraph, END
 from langgraph.prebuilt import ToolExecutor
