@@ -10,9 +10,8 @@
 7. [Tool Ecosystem](#tool-ecosystem)
 8. [Implementation Guide](#implementation-guide)
 9. [Evaluation Methods](#evaluation-methods)
-10. [Performance Optimization](#performance-optimization)
-11. [Case Studies](#case-studies)
-12. [Best Practices](#best-practices)
+10. [Summary](#summary-table)
+
 
 ## Introduction
 
