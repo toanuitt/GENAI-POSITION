@@ -318,7 +318,7 @@ for message in final_state["messages"]:
 ```
 
 #### 2. ReAct Agent Pattern
-![alt text](image.png)
+![alt text](COT.png)
 ```python
 from langgraph.graph import StateGraph, END
 from langgraph.prebuilt import ToolExecutor
